@@ -15,7 +15,7 @@
 
 ### Ссылки
 
-- URL веб-сайта в реальном времени: [Добавьте URL веб-сайта в реальном времени здесь](https://mmalabugin.ru/SimpleOmelleteRecipe)
+- URL веб-сайта в реальном времени: (https://mmalabugin.ru/SimpleOmelleteRecipe)
 
 ## Мой процесс
 
