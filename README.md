@@ -32,8 +32,9 @@
 
 ## Автор
 
-- Веб-сайт - [1t1sCooL](https://www.mmalabugin.ru/)
-- Наставник по интерфейсу - [@1t1sCooL](https://www.frontendmentor.io/profile/1t1sCooL)
+- Веб-сайт - [mmalabugin.ru](https://www.mmalabugin.ru/)
+- Наставник по интерфейсу - [@1t1sCooL](https://www.frontendmentor.io/profile/1t1sCooL)
+- GitHub - [@1t1sCooL](https://github.com/1t1sCooL)
 - Твиттер - [@vi_el_mar](https://www.twitter.com/vi_el_mar)
 - Telegram - [@ItIsCooL](https://t.me/ItIsCooL)
 
